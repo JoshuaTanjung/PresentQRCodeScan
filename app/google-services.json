@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918086272391",
+    "firebase_url": "https://researchproject2-ecd18-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "researchproject2-ecd18",
+    "storage_bucket": "researchproject2-ecd18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918086272391:android:3c96774b1cc5b8b3933f22",
+        "android_client_info": {
+          "package_name": "com.qrcodescanner.skripsiapplicationpresensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918086272391-ndj9bk0s1fq6mjr6kull0spbgn84tt8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb21uZOLIJIxld8_USXnsli2W3rj6dxzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918086272391-ndj9bk0s1fq6mjr6kull0spbgn84tt8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
